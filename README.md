@@ -33,4 +33,10 @@ This repository serves as a record of my:
 
 Consistent progress beats perfection. Every project and commit is a step toward mastering Data Science and Generative AI.
 
+
 Building. Learning. Improving. 🚀
+
+# Completed Programs
+- Palindrome Checker
+- Fibonacci Series
+- Prime Number Checker
